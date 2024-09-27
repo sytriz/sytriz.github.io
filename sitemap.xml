@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/1-year-with-linux/</loc>
+    <loc>https://blog.sytriz.com/posts/1-year-with-linux/</loc>
     <lastmod>2024-09-27T14:27:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.sytriz.com/categories/</loc>
     <lastmod>2024-09-27T14:27:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://blog.sytriz.com/tags/linux/</loc>
     <lastmod>2024-09-27T14:27:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/linux/</loc>
+    <loc>https://blog.sytriz.com/categories/linux/</loc>
     <lastmod>2024-09-27T14:27:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/long-term/</loc>
+    <loc>https://blog.sytriz.com/tags/long-term/</loc>
     <lastmod>2024-09-27T14:27:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.sytriz.com/posts/</loc>
     <lastmod>2024-09-27T14:27:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.sytriz.com/</loc>
     <lastmod>2024-09-27T14:27:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.sytriz.com/tags/</loc>
     <lastmod>2024-09-27T14:27:26-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/new-channel/</loc>
+    <loc>https://blog.sytriz.com/posts/new-channel/</loc>
     <lastmod>2024-09-27T10:02:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://blog.sytriz.com/archives/</loc>
   </url>
 </urlset>
